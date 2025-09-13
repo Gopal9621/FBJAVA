@@ -10,5 +10,4 @@ public class evenodd {
             System.out.println("num is odd ");
         }
     }
-    
 }
