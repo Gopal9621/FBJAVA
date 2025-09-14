@@ -1,7 +1,7 @@
 // print pattern of solid rectangle
 
 import java.util.*;
-public class pattern {
+public class pattern1 {
    public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
     int row = sc.nextInt();
