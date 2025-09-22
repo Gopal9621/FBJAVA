@@ -11,7 +11,5 @@ public class pattern6a {
             }
             System.out.println();
         }
-
-
     }
 }
