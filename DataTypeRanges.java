@@ -6,9 +6,7 @@
     System.out.println("local variable variable is = " + b);
    }
 }/* /* */
-
-
-   
+  
 public class DataTypeRanges {
     public static void main(String[] args) {
         System.out.println("byte    : " + Byte.MIN_VALUE    + " to " + Byte.MAX_VALUE);
