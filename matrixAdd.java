@@ -12,7 +12,6 @@ public class matrixAdd {
 
           }
         }
-
         // System.out.println("Matrix Addition");
         for(int [] row : C){
           for(int val : row){
