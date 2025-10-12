@@ -15,20 +15,19 @@ public static void main(String[] args){
     System.out.println("Enter the email id of student");
     String email = sc.nextLine();
 
-int[] marks = new int[5];
-int total = 0;
-for (int i = 0; i < 5; i++) {
-    System.out.println("Enter marks for subject " + (i + 1) + ":");
+      int[] marks = new int[5];
+      int total = 0;
+   for (int i = 0; i < 5; i++) {
+      System.out.println("Enter marks for subject " + (i + 1) + ":");
     
-    marks[i] = sc.nextInt();
-    sc.nextLine(); // consume leftover newline
-    total += marks[i];
-}
-System.out.println("Total marks: " + total);
-System.out.println("Average marks: " + (total / 5.0));
-
-}
-
+      marks[i] = sc.nextInt();
+      sc.nextLine(); // consume leftover newline
+      total += marks[i];
+     }
+     System.out.println("Total marks: " + total);
+     System.out.println("Average marks: " + (total / 5.0));
+   
+   }
 }
 
 
