@@ -13,7 +13,7 @@ public class maxmin {
             }
         }
 
-        System.out.println("Maximum value: " + max);
-        System.out.println("Minimum value: " + min);
+        System.out.println("Maximum value is : " + max);
+        System.out.println("Minimum value is : " + min);
     }
 }
