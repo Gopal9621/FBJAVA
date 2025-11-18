@@ -5,6 +5,7 @@ public class rhombuspattern11 {
             for(int k = 1; k<=row-i; k++){
                 System.out.print(" ");
             }
+            
             for(int j = 1; j<=row; j++){
                 System.out.print("*");
             }
