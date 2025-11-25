@@ -12,7 +12,7 @@ public class comparenum {
             }
             else {
                 System.out.println("b is greater");
-            }
-        }
-    }
+         }
+     }
+}
 
