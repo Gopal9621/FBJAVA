@@ -9,8 +9,7 @@ public class factorial {
             factorial = factorial*i;
         }
         System.out.println("Factorial of n is : "+factorial);
-        return ;
-        
+        return ;   
     }
 public static void main(String[] args){
     Scanner sc = new Scanner(System.in);
@@ -20,4 +19,5 @@ public static void main(String[] args){
 }    
     
 }
+
 
