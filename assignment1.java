@@ -10,7 +10,6 @@ public class assignment1 {
         for(int i=1; i<=N; i++){
             sum += i;
         }
-
         System.out.println("Sum = " + sum);
     }
 }
