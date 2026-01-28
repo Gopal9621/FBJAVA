@@ -1,4 +1,3 @@
-
 public class matrixAdd {
       public static void main(String[] arga){
         int[][] A = {{1, 2, 3},{4, 5, 6},{2, 3, 4}};
