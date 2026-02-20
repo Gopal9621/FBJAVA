@@ -3,7 +3,6 @@ public class maxmin {
         int[] numbers = {3, 5, 1, 8, 2};
         int max = numbers[0];
         int min = numbers[0];
-
         for (int i = 1; i < numbers.length; i++) {
             if (numbers[i] > max) {
                 max = numbers[i];
@@ -17,3 +16,4 @@ public class maxmin {
         System.out.println("Minimum value is : " + min);
     }
 }
+
