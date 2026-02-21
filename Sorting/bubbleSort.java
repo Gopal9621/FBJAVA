@@ -22,7 +22,6 @@ public class bubbleSort {
     }
 }
 
-
 // import java.util.*;
 // public  nclass bubbleSort {
 //    public static void printArray(int arr[]) {
@@ -47,4 +46,5 @@ public class bubbleSort {
 //        printArray(arr);
 //    }
 //    }
+
 
