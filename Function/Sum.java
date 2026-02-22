@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class Sum {
     public static int calculateSum(int a, int b){
         int sum = a+b;
@@ -14,4 +13,5 @@ public static void main(String[] args){
     System.out.println("sum of two number is : "+sum);
 }
 }
+
 
