@@ -11,10 +11,8 @@ public class stringexample {
         
     int[] copy = Arrays.copyOf(arr, 7);
     System.out.println("copy :    " + Arrays.toString(copy));
-
+        
     Arrays.fill(copy, 6);
     System.out.println("Filled:   " + Arrays.toString(copy));
-
     }
-    
 }
