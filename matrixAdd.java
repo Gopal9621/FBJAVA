@@ -12,7 +12,7 @@ public class matrixAdd {
           for(int val : row){
       System.out.print(val + " ");
           }
-          System.out.println();
+      System.out.println();
         }
     }
 }
