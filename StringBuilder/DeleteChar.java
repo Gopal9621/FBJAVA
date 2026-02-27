@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class DeleteChar{
     public static void main(String[] args){
         StringBuilder sb = new StringBuilder("hello");
@@ -8,3 +7,4 @@ public class DeleteChar{
     }
 
 }
+
