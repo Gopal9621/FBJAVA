@@ -5,6 +5,6 @@ public class DeleteChar{
         sb.delete(0,1);
         System.out.println(sb);
     }
-
 }
+
 
