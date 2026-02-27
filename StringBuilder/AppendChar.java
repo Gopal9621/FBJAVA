@@ -6,3 +6,4 @@ public class AppendChar {
         System.out.println(sb);
     }
 }
+
