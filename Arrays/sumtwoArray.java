@@ -7,7 +7,6 @@ public class sumtwoArray {
         for (int i = 0; i < arr1.length; i++) {
             sum[i] = arr1[i] + arr2[i];
         }
-
         System.out.print("Sum of arrays: ");
         for (int val : sum) {
             System.out.print(val + " ");
@@ -16,4 +15,5 @@ public class sumtwoArray {
 }
 
     
+
 
