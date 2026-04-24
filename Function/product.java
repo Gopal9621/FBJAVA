@@ -10,9 +10,7 @@ public static void main(String[] args){
     int a = sc.nextInt();
     int b = sc.nextInt();
     // int product = calculateProduct(a,b);
- 
-    System.out.println("product of two number is : "+ calculateProduct(a,b));
-    
+    System.out.println("product of two number is : "+ calculateProduct(a,b)); 
 }
 }
 
