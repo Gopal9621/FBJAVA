@@ -1,4 +1,4 @@
- import java.util.*;
+import java.util.*;
 public class insertChar {
     public static void main(String[] args){
         StringBuilder sb = new StringBuilder("tiger ");
